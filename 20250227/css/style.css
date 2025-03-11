@@ -1,0 +1,17 @@
+.box {
+  border: 2px solid navy;
+  border-radius: 10px;
+  width: 200px;
+  height: 100px;
+  background: lightblue;
+  text-align: center;
+  line-height: 100px;
+}
+
+.aaa {
+  border: 5px solid darkblue;
+  display: inline-block;
+  padding: 30px 10px;
+  color: white;
+  background: darkblue;
+}
